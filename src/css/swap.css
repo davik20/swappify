@@ -1,0 +1,5 @@
+.hover-state {
+}
+.hover-state:hover {
+  filter: opacity(0.4);
+}
